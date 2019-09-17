@@ -1,0 +1,3 @@
+Sitemap: https://www.helgejohnsen.no/sitemap.xml
+User-agent:*
+Disallow:
